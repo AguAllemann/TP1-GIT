@@ -1,4 +1,6 @@
-# TP GIT 
+# TP GIT
+
 ## Integrantes del grupo:
-- Agustin Allemann
-- Juan Pérez 
+
+-[Agustín Allemann](agustin_allemann.md)
+-[Juan Pérez](juan_perez.md)
